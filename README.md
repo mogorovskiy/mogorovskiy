@@ -7,8 +7,6 @@
 
 ## 🛠️ Skills
 
-### Web Development
-
 ![java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=oracle&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=.NET&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-5FB832?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,6 +18,8 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ### Featured
 
@@ -42,6 +42,8 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mogorovskiy&repo=web-registration&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
+
+[![codewars](https://www.codewars.com/users/mogorovskiy7/badges/small)](https://www.codewars.com/users/mogorovskiy7)
 
 
 ## 🔗 Links
