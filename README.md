@@ -1,6 +1,6 @@
-# Hello world! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhrajA0NXk3OGQydmxoZGUzcTIxbGJ3YndsdDh4eXl3YTRmbTNjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abooVPgeGpknXpu/giphy.gif" width="90px">
+<h1 align="center">Hi there, I'm Kirill Mogorovskiy.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhrajA0NXk3OGQydmxoZGUzcTIxbGJ3YndsdDh4eXl3YTRmbTNjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abooVPgeGpknXpu/giphy.gif" height="32"/></h1>
 
-## I'm Kirill Mogorovskiy.
 - Сareer: Backend Software Engineer. In IT since 2022. I tried different areas of development, such as games, desktop applications, etc. But what hooked me most was web development. My goal is to become a strong web developer and help businesses with my knowledge, and I’m moving towards it. Check out my projects.
 - About me: My trump card is ease of communication. I am interested in psychology, play the electric guitar and piano (including in a band), practice boxing and love what I do. Nice to meet you!
 - Education: Higher legal education at Institute of Information Security at the SBU, Kyiv.
