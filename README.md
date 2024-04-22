@@ -20,7 +20,10 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
+![LiquiBase](https://camo.githubusercontent.com/a0a1387740ba6233485c37e1d4f95324cdc4c2bd90f6558e95eef3614dacfc12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c69717569626173652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d6c6971756962617365266c6f676f436f6c6f723d7768697465)
+![MupStruct](https://camo.githubusercontent.com/03c158bd9fdaa5de1a6c0a399d7900e4d5bb21854037c657cd652121d172bfcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61707374727563742d4646334530303f7374796c653d666f722d7468652d6261646765)
+![Lombok](https://camo.githubusercontent.com/61d181ca229da65bbea5c2ec7a60cdd2d7e4d790d7c4594e4ebe7b15f5143e27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6d626f6b2d4135303033343f7374796c653d666f722d7468652d6261646765)
+![JWT](https://camo.githubusercontent.com/138db798f7f1539dfa9daf51b867e320ca9fe0381dc64660974761449290c79a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e776562746f6b656e73266c6f676f436f6c6f723d7768697465)
 ### Featured
 
 <p align="center">
@@ -44,7 +47,6 @@
 </p>
 
 [![codewars](https://www.codewars.com/users/mogorovskiy7/badges/small)](https://www.codewars.com/users/mogorovskiy7)
-
 
 ## 🔗 Links
 
