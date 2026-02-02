@@ -18,10 +18,9 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![MapStruct](https://img.shields.io/badge/MapStruct-FF3E00?style=for-the-badge&logo=mapstruct&logoColor=white)
-![Lombok](https://camo.githubusercontent.com/61d181ca229da65bbea5c2ec7a60cdd2d7e4d790d7c4594e4ebe7b15f5143e27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6d626f6b2d4135303033343f7374796c653d666f722d7468652d6261646765)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-[Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black)
 ![Lombok](https://img.shields.io/badge/Lombok-A50034?style=for-the-badge&logo=lombok&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
